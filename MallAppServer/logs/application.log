@@ -1,0 +1,24 @@
+2015-07-25 23:39:57,313 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2015-07-25 23:46:40,927 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2015-07-25 23:46:41,594 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+start saving
+
+2015-07-25 23:47:39,666 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+start saving
+
+2015-07-25 23:47:47,028 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+start saving
+
+2015-07-25 23:48:14,140 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+start saving
+
+2015-07-25 23:48:17,265 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+start saving
+
+2015-07-26 02:34:53,664 - [INFO] - from application in play-akka.actor.default-dispatcher-11 
+start saving
+
